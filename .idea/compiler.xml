@@ -16,6 +16,8 @@
       <module name="asyncpractice.test" target="1.8" />
       <module name="com.example.accessingdataneo4j.main" target="1.8" />
       <module name="com.example.accessingdataneo4j.test" target="1.8" />
+      <module name="integration.main" target="1.8" />
+      <module name="integration.test" target="1.8" />
       <module name="messagingrabbit" target="1.8" />
       <module name="messagingrabbit.main" target="1.8" />
       <module name="messagingrabbit.test" target="1.8" />

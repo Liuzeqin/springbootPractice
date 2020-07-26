@@ -43,6 +43,19 @@
       <GradleProjectSettings>
         <option name="createEmptyContentRootDirectories" value="true" />
         <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/asyncmethod" />
+        <option name="gradleHome" value="E:/gradle-6.5.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/asyncmethod" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/authenticatingldap" />
         <option name="gradleHome" value="E:/gradle-6.5.1" />
         <option name="modules">
@@ -113,6 +126,19 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/messagingredis" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/messagingstompwebsocket" />
+        <option name="gradleHome" value="E:/gradle-6.5.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/messagingstompwebsocket" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />
