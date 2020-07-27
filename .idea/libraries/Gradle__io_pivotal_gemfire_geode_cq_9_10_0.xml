@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.pivotal.gemfire:geode-cq:9.10.0">
+    <CLASSES>
+      <root url="jar://E:/.gradle/caches/modules-2/files-2.1/io.pivotal.gemfire/geode-cq/9.10.0/592d51d0bca4146781ac2bb7e3ccd20db3d4da07/geode-cq-9.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/.gradle/caches/modules-2/files-2.1/io.pivotal.gemfire/geode-cq/9.10.0/8a9723f38b7a51af0e6979ee92fa8313bd0a28fc/geode-cq-9.10.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

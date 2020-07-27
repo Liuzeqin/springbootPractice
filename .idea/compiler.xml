@@ -1,32 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <annotationProcessing>
-      <profile name="Maven default annotation processors profile" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-      </profile>
-    </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="accessingdataneo4j" target="1.8" />
-      <module name="accessingdataneo4j.main" target="1.8" />
-      <module name="accessingdataneo4j.test" target="1.8" />
-      <module name="asyncpractice.main" target="1.8" />
-      <module name="asyncpractice.test" target="1.8" />
-      <module name="com.example.accessingdataneo4j.main" target="1.8" />
-      <module name="com.example.accessingdataneo4j.test" target="1.8" />
-      <module name="integration.main" target="1.8" />
-      <module name="integration.test" target="1.8" />
-      <module name="messagingrabbit" target="1.8" />
-      <module name="messagingrabbit.main" target="1.8" />
-      <module name="messagingrabbit.test" target="1.8" />
+      <module name="accessdatajpa_main" target="1.8" />
+      <module name="accessdatajpa_test" target="1.8" />
+      <module name="accessingdatajpa.main" target="1.8" />
+      <module name="accessingdatajpa.test" target="1.8" />
+      <module name="accessingdatajpa_main" target="1.8" />
+      <module name="accessingdatajpa_test" target="1.8" />
+      <module name="actuatorservice.main" target="1.8" />
+      <module name="actuatorservice.test" target="1.8" />
+      <module name="asyncmethod.main" target="1.8" />
+      <module name="asyncmethod.test" target="1.8" />
+      <module name="authenticatingldap.main" target="1.8" />
+      <module name="authenticatingldap.test" target="1.8" />
+      <module name="batchprocess.main" target="1.8" />
+      <module name="batchprocess.test" target="1.8" />
+      <module name="caching.main" target="1.8" />
+      <module name="caching.test" target="1.8" />
+      <module name="datagemfire.main" target="1.8" />
+      <module name="datagemfire.test" target="1.8" />
+      <module name="messagerabbitmq.main" target="1.8" />
+      <module name="messagerabbitmq.test" target="1.8" />
+      <module name="messagingredis.main" target="1.8" />
+      <module name="messagingredis.test" target="1.8" />
+      <module name="messagingstompwebsocket.main" target="1.8" />
+      <module name="messagingstompwebsocket.test" target="1.8" />
+      <module name="personform.main" target="1.8" />
+      <module name="personform.test" target="1.8" />
+      <module name="relationdataaccess.main" target="1.8" />
+      <module name="relationdataaccess.test" target="1.8" />
+      <module name="resthateoas.main" target="1.8" />
+      <module name="resthateoas.test" target="1.8" />
+      <module name="restservicecors.main" target="1.8" />
+      <module name="restservicecors.test" target="1.8" />
+      <module name="securingweb.main" target="1.8" />
+      <module name="securingweb.test" target="1.8" />
+      <module name="springBootPractice_main" target="1.8" />
+      <module name="springBootPractice_test" target="1.8" />
+      <module name="uploadfile.main" target="1.8" />
+      <module name="uploadfile.test" target="1.8" />
     </bytecodeTargetLevel>
-  </component>
-  <component name="JavacSettings">
-    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="accessingdataneo4j" options="-parameters" />
-      <module name="messagingrabbit" options="-parameters" />
-    </option>
   </component>
 </project>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.pivotal.gemfire:geode-serialization:9.10.0">
+    <CLASSES>
+      <root url="jar://E:/.gradle/caches/modules-2/files-2.1/io.pivotal.gemfire/geode-serialization/9.10.0/8c9f2a47a7321cd4fc1faea1553250ac8d0564e1/geode-serialization-9.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/.gradle/caches/modules-2/files-2.1/io.pivotal.gemfire/geode-serialization/9.10.0/e43be81d2ea91dca6a3c5993a4d4b2ff0fad7a6e/geode-serialization-9.10.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.security:spring-security-ldap:5.3.3.RELEASE">
+    <CLASSES>
+      <root url="jar://E:/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-ldap/5.3.3.RELEASE/94e8280c362131f9c17e57e8c757689af3f800ae/spring-security-ldap-5.3.3.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-ldap/5.3.3.RELEASE/11addcbdc27bb9fa20b470185de64de244872947/spring-security-ldap-5.3.3.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

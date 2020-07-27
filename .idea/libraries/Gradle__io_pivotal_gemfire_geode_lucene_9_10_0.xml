@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.pivotal.gemfire:geode-lucene:9.10.0">
+    <CLASSES>
+      <root url="jar://E:/.gradle/caches/modules-2/files-2.1/io.pivotal.gemfire/geode-lucene/9.10.0/c201cfc0eecd8d65a3417e1715c8e364a1ef559e/geode-lucene-9.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/.gradle/caches/modules-2/files-2.1/io.pivotal.gemfire/geode-lucene/9.10.0/6f7c33569455008fa137d8a3c91da09c9551ddf8/geode-lucene-9.10.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

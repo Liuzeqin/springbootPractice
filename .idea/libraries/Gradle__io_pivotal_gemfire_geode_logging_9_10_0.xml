@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.pivotal.gemfire:geode-logging:9.10.0">
+    <CLASSES>
+      <root url="jar://E:/.gradle/caches/modules-2/files-2.1/io.pivotal.gemfire/geode-logging/9.10.0/83ad06cc8e156ea56e56f4a01d8cfd54c31cbe61/geode-logging-9.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/.gradle/caches/modules-2/files-2.1/io.pivotal.gemfire/geode-logging/9.10.0/65839027b861aff2085b5669482e04cfaedd76c5/geode-logging-9.10.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

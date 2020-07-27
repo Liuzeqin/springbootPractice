@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.pivotal.gemfire:geode-wan:9.10.0">
+    <CLASSES>
+      <root url="jar://E:/.gradle/caches/modules-2/files-2.1/io.pivotal.gemfire/geode-wan/9.10.0/5a1a2a945d4de4f66d21515a842b61508ee6999c/geode-wan-9.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/.gradle/caches/modules-2/files-2.1/io.pivotal.gemfire/geode-wan/9.10.0/ea8fcc8d5cde8ce2e95e783af48d3de4520c9050/geode-wan-9.10.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

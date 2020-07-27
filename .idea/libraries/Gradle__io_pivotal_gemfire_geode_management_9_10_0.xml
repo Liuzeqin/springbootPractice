@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.pivotal.gemfire:geode-management:9.10.0">
+    <CLASSES>
+      <root url="jar://E:/.gradle/caches/modules-2/files-2.1/io.pivotal.gemfire/geode-management/9.10.0/8ead133f2a00d0cc8b90b785b8a5e3d13ef2ba1/geode-management-9.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/.gradle/caches/modules-2/files-2.1/io.pivotal.gemfire/geode-management/9.10.0/898a56867c3860bce6ceba978a809ea273280a84/geode-management-9.10.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

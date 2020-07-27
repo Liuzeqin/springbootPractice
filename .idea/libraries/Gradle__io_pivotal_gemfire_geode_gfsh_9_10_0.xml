@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.pivotal.gemfire:geode-gfsh:9.10.0">
+    <CLASSES>
+      <root url="jar://E:/.gradle/caches/modules-2/files-2.1/io.pivotal.gemfire/geode-gfsh/9.10.0/1a9e8b4a651ebab017b6d97537404c519abfa20b/geode-gfsh-9.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/.gradle/caches/modules-2/files-2.1/io.pivotal.gemfire/geode-gfsh/9.10.0/6ba04c922c50faf419473b5f6bc4276adb0b1b21/geode-gfsh-9.10.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

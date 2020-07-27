@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.pivotal.gemfire:geode-tcp-server:9.10.0">
+    <CLASSES>
+      <root url="jar://E:/.gradle/caches/modules-2/files-2.1/io.pivotal.gemfire/geode-tcp-server/9.10.0/c8f7d8ff05c8b390c57549497466ef76a186b75e/geode-tcp-server-9.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/.gradle/caches/modules-2/files-2.1/io.pivotal.gemfire/geode-tcp-server/9.10.0/c39916c26b521cc6242af51dfcd668944a0d29fa/geode-tcp-server-9.10.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

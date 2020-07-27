@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.pivotal.gemfire:geode-unsafe:9.10.0">
+    <CLASSES>
+      <root url="jar://E:/.gradle/caches/modules-2/files-2.1/io.pivotal.gemfire/geode-unsafe/9.10.0/c2bce57de36da496604b77aeafb3e0d0e8b59285/geode-unsafe-9.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/.gradle/caches/modules-2/files-2.1/io.pivotal.gemfire/geode-unsafe/9.10.0/6382c8b6259ed963638e9c87dac650ac14cac2d9/geode-unsafe-9.10.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

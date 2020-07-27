@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.data:spring-data-geode:2.3.1.RELEASE">
+    <CLASSES>
+      <root url="jar://E:/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-geode/2.3.1.RELEASE/f86cbc18f37c9b6e3e6bec794ecf5fd1052d40ad/spring-data-geode-2.3.1.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://E:/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-geode/2.3.1.RELEASE/5bacadf81eb7b96900c6f73aac362778da1965e5/spring-data-geode-2.3.1.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

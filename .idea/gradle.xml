@@ -3,29 +3,17 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="gradleHome" value="E:/gradle-6.5.1" />
+        <option name="gradleJvm" value="1.8" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />
-        <option name="useQualifiedModuleNames" value="true" />
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="createEmptyContentRootDirectories" value="true" />
-        <option name="distributionType" value="LOCAL" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/accessdatajpa" />
-        <option name="gradleHome" value="E:/gradle-6.5.1" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/accessdatajpa" />
-          </set>
-        </option>
-        <option name="useAutoImport" value="true" />
-        <option name="useQualifiedModuleNames" value="true" />
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="createEmptyContentRootDirectories" value="true" />
@@ -74,6 +62,19 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/batchprocess" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/caching" />
+        <option name="gradleHome" value="E:/gradle-6.5.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/caching" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />
@@ -178,6 +179,19 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/resthateoas" />
+          </set>
+        </option>
+        <option name="useAutoImport" value="true" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/restservicecors" />
+        <option name="gradleHome" value="E:/gradle-6.5.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/restservicecors" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />
